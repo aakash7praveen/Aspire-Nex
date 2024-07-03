@@ -22,4 +22,9 @@ Active Face Detection is done with the help of the built in landmarking models i
 
 This has beem implemented and verified by our advisors and judges, and is currently chosen as one of the candidates for the best projects in the current semester (results not out).
 
-The video and photos of the functioning of the system will be provided in the FACE DETECTION AND RECOGNITION folder.
+The main program resides in FINAL.py
+
+The video and photos of the functioning of the system will be provided in the FACE DETECTION AND RECOGNITION DEMOS&IMAGES folder.
+
+The model cannot be included in the repository and might affect the working of the system, if it doesn't run please refer to the videos and images provided in the FACE DETECTION AND RECOGNITION DEMOS&IMAGES folder.
+
